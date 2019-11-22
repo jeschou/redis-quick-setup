@@ -55,6 +55,7 @@ python setup-sentinel.py
 3. 启动所有 sentinels 示例
 
 redis 默认端口 6001(master), 6002 (slave), 6003 (slave)
+
 sentinel 默认端口 26001, 26002, 26003
 
 
